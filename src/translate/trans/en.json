@@ -1,0 +1,18 @@
+{
+  "home": "Home",
+  "calendar": "Calendar",
+  "title": "General Staff of the Armed Forces of Ukraine informs",
+  "titleBig": "The total losses of the russian occupier",
+  "intlDateTime": "{{val, datetime}}",
+  "footer": "Maksym Volik",
+  "warDay_ordinal_one": "{{count}}st day of war",
+  "warDay_ordinal_two": "{{count}}nd day of war",
+  "warDay_ordinal_few": "{{count}}rd day of war",
+  "warDay_ordinal_other": "{{count}}th day of war",
+  "error": "Oops! Something went wrong, please try again",
+  "empty data": "Data on the selected date are missing",
+  "not supported": "Make sure WhatsApp installed on your device",
+  "message to send": "Please insert message to send",
+  "mobile no": "Please insert mobile no",
+  "intlNumber": "{{val, number}}"
+}
