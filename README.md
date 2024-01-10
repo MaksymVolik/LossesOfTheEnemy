@@ -14,6 +14,6 @@ Supports two languages (Ukrainian, English), determines the system language, sav
 ## REST API
 - russianWarship.RIP API
 
-
+## Application Record:
 https://github.com/MaksymVolik/LossesOfTheEnemy/assets/92640583/d8b973bf-52c5-41fa-aad2-92813e814727
 
